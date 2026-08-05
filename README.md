@@ -16,7 +16,7 @@ React · TypeScript · Next.js · React Native · NestJS
 
 <h3><code>gigi@github ~ $ links</code></h3>
 
-<a href="https://gigis.site">
+<a href="https://gig1s.pages.dev/">
   <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
