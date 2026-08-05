@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gio-gigi/gio-gigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>gigi@github ~ $ whoami</code></h3>
 
-Here are some ideas to get you started:
+<h1>Gigi Chávez</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<b>Software Engineer · Frontend & Mobile Developer</b>
+</p>
+
+<p>
+React · TypeScript · Next.js · React Native · NestJS
+</p>
+
+<br>
+
+<h3><code>gigi@github ~ $ links</code></h3>
+
+<a href="https://gigis.site">
+  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/gio-chavez-es">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/gio-gigi">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br>
+<br>
+
+<h3><code>gigi@github ~ $ tech</code></h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,reactnative,nestjs,nodejs,postgresql,mysql,docker,git" />
+</p>
+
+<br>
+
+<h3><code>gigi@github ~ $ currently</code></h3>
+
+<p>
+Building · Learning · Shipping
+</p>
+
+</div>
