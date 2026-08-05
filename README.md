@@ -2,7 +2,7 @@
 
 <h3><code>gigi@github ~ $ whoami</code></h3>
 
-<h1>Gigi Chávez</h1>
+<h1>Gio Chávez</h1>
 
 <p>
 <b>Software Engineer · Frontend & Mobile Developer</b>
